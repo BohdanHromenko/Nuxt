@@ -19,16 +19,11 @@
 </template>
 
 <script>
-// export default {
-//   async asyncData({store}) {
-//     await store.dispatch('i18n/setRouteParams', {
-//       en: {slug: ''},
-//       ru: {slug: 'o-nas'}
-//     })
-//   }
-// }
+export default {
+  name: "registration-a1-and-ekuz-card"
+}
 </script>
 
-<style>
+<style scoped>
 
 </style>

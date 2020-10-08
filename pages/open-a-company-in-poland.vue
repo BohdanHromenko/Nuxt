@@ -19,16 +19,11 @@
 </template>
 
 <script>
-// export default {
-//   async asyncData({store}) {
-//     await store.dispatch('i18n/setRouteParams', {
-//       en: {slug: ''},
-//       ru: {slug: 'o-nas'}
-//     })
-//   }
-// }
+export default {
+name: "open-a-company-in-poland"
+}
 </script>
 
-<style>
+<style scoped>
 
 </style>
